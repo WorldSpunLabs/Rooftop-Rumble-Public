@@ -1,0 +1,12 @@
+Rooftop Rumble — Demo 01: ArmPits
+world spun labs
+
+Game and original materials: world spun labs / ВИА «Папина Попа».
+Characters, environments, models, music and voice include AI-generated material.
+Base animation clips: Quaternius Universal Animation Libraries, CC0 1.0.
+https://quaternius.com/
+Manrope and Russo One fonts: SIL Open Font License (included in fonts/).
+Babylon.js: Apache-2.0. https://github.com/BabylonJS/Babylon.js
+
+This build is provided to play. It does not grant permission to redistribute
+the game's original characters, music or artwork as a separate asset library.
