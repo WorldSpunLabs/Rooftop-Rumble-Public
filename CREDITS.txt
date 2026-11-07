@@ -1,7 +1,7 @@
 Rooftop Rumble — Demo 01: ArmPits
 world spun labs
 
-Game and original materials: world spun labs / ВИА «Папина Попа».
+Game and original materials: world spun labs / VIA Papina Popa.
 Characters, environments, models, music and voice include AI-generated material.
 Base animation clips: Quaternius Universal Animation Libraries, CC0 1.0.
 https://quaternius.com/
